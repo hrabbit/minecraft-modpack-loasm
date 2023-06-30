@@ -9,7 +9,7 @@ This modpack started as a basic set of mods for myself and my daughter to play M
 ## Overview
 
 * Minecraft version: 1.19.2
- * This may change moving forward so I'm hoping to use branches or tags to limit particular subsets
+  * This may change moving forward so I'm hoping to use branches or tags to limit particular subsets
 * Loader: Forge
 * Server: Yes
 * Clint: Yes
