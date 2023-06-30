@@ -1,0 +1,13 @@
+name = "Sky Villages"
+filename = "SkyVillages-1.0.1-1.19-forge-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mb68eIfx/versions/vjnPq86j/SkyVillages-1.0.1-1.19-forge-release.jar"
+hash-format = "sha1"
+hash = "14f58d5f7f9a2fab9d6142d4c03ecadd2316120d"
+
+[update]
+[update.modrinth]
+mod-id = "mb68eIfx"
+version = "vjnPq86j"

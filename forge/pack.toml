@@ -1,0 +1,13 @@
+name = "[Forge] LOASM"
+author = "HRabbit"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78281d7f380ab673a8e2c46446e954e3104360a02d437ca90c0d7d93c8b533bf"
+
+[versions]
+forge = "43.2.11"
+minecraft = "1.19.2"
