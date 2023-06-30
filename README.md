@@ -17,4 +17,4 @@ This modpack started as a basic set of mods for myself and my daughter to play M
 
 ## Requirement list and reasoning on mod selections.
 
-[Wiki](wiki)
+[Wiki](../../wiki)
