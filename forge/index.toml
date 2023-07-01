@@ -245,6 +245,11 @@ hash = "b7c2ce26ea62f325af6e2d0504e01d3ebd975e01b383385bd35309d836e86966"
 metafile = true
 
 [[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "f6e9ab48216ca5c075e27cc5f86bc1b20ac306626ca984a4fb519b4b41e411f0"
 metafile = true
@@ -425,11 +430,6 @@ hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
 
 [[files]]
-file = "mods/multiplayer-server-pause.pw.toml"
-hash = "b44d41d72de983556e01c3f64a4f0e9e11a11fb4e341833c882083e007366c8d"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "b5da5f897b5b9e270e583eabecfd99901b57e3295658268d385f5f30232b576e"
 metafile = true
@@ -437,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "90e966a902a1f288100aec37917aa4e58d59ad5ec15e0ddcfdd27088dd29fc03"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
 
 [[files]]
@@ -470,6 +475,11 @@ hash = "6a601805761567750dea12d213f28d0063ac1c68fbc14c77f91d923a9d8fb118"
 metafile = true
 
 [[files]]
+file = "mods/serversleep.pw.toml"
+hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
@@ -492,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/sky-villages.pw.toml"
 hash = "aaaa409a77242f368ba70286070c507b58c159acaec95ac401639ea02b84b9a1"
-metafile = true
-
-[[files]]
-file = "mods/sneaky-tree-growing.pw.toml"
-hash = "ac23e797e0a971a9c055ad5d763fe8bb2c4abc52f3893e7d6bc0e5c3588635e5"
 metafile = true
 
 [[files]]
