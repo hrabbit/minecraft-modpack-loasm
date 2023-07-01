@@ -185,6 +185,11 @@ hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
