@@ -1,0 +1,13 @@
+name = "Sneaky Tree Growing"
+filename = "FORGE-sneaky_tree_growing-1.19.x-1.10.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KJgzbMSX/versions/qHWzlACx/FORGE-sneaky_tree_growing-1.19.x-1.10.0.jar"
+hash-format = "sha1"
+hash = "656098716853c6128dcc2029a6453b5b8ceba5a2"
+
+[update]
+[update.modrinth]
+mod-id = "KJgzbMSX"
+version = "qHWzlACx"

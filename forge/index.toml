@@ -465,6 +465,11 @@ hash = "6a601805761567750dea12d213f28d0063ac1c68fbc14c77f91d923a9d8fb118"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "9d260d9b32677d35efa2038d5c903a90d8623731a29924c2ba3ceef2b5a8d42a"
 metafile = true
@@ -482,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/sky-villages.pw.toml"
 hash = "aaaa409a77242f368ba70286070c507b58c159acaec95ac401639ea02b84b9a1"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-tree-growing.pw.toml"
+hash = "ac23e797e0a971a9c055ad5d763fe8bb2c4abc52f3893e7d6bc0e5c3588635e5"
 metafile = true
 
 [[files]]
@@ -527,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "896ff801fcaf8da79a32dc5bb4a8ddeac9481dfc5625c5e55664ce2831876d2f"
 metafile = true
 
 [[files]]
