@@ -41,6 +41,18 @@ file = "config/serverpause-common.toml"
 hash = "25c3b4a1d03c23f8dd5b0857a1cc8e7576d44f599b2f5e4ef4e9024853df18eb"
 
 [[files]]
+file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "2b08fe0e17c874213a3e86e6333586d11749d969d33521176fd64310b77c1b63"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "e47b496b903f9add5b992a64ced09391a09cd2deb20bcf6a09310fd9eb449634"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "76c66b7975fbf7064d3882b0964ba906be7a03c179204117622b2799cb707f9a"
 
@@ -92,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/botany-trees.pw.toml"
 hash = "664518e5a22a3567c2d2c7595ec0a3f3deac5d5c239646c92057ae3b86e9b4f5"
+metafile = true
+
+[[files]]
+file = "mods/build-guide.pw.toml"
+hash = "75488ed1b683de0b28b42494c984c57da92f96da65f0fdc6457593a7c4596a32"
 metafile = true
 
 [[files]]
