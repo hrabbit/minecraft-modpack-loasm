@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-guide.pw.toml"
-hash = "75488ed1b683de0b28b42494c984c57da92f96da65f0fdc6457593a7c4596a32"
+hash = "cb34b5b96e65b2734cb282eef49bc35a5809d01df76d1b281ae426d4a96281a8"
 metafile = true
 
 [[files]]
